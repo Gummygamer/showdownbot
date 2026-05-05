@@ -1,0 +1,6 @@
+{
+  "name": "request",
+  "version": "0.0.0-local",
+  "main": "index.js",
+  "description": "Local minimal replacement for the deprecated request package used by showdownbot."
+}
