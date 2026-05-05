@@ -9,6 +9,7 @@
     "log4js": "0.6.21",
     "nedb": "^0.11.1",
     "nunjucks": "1.x",
+    "request": "file:vendor/request-shim",
     "sockjs-client-ws": "0.1.0",
     "sugar": "^1.4.1",
     "underscore": "1.x"
